@@ -1,2 +1,2 @@
 # Epicode-SQL
-Repository per i corso Epicode riservato a SQL
+Repository per il corso Epicode riservato a SQL
